@@ -104,7 +104,8 @@ print(X_test)
 
 
 ## OUTPUT:
-<img width="220" height="270" alt="image" src="https://github.com/user-attachments/assets/83bd88cb-2847-4119-9a73-9755e1b6472d" />
+<img width="243" height="302" alt="Screenshot 2026-10-26 125212" src="https://github.com/user-attachments/assets/7538ad6a-a60e-4a66-8f4c-6bb42bb5c5c0" />
+
 
 
 ```python
